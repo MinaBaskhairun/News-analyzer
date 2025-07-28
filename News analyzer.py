@@ -4,6 +4,7 @@
 # In[1]:
 
 
+import os
 import requests
 import json
 import pandas as pd
@@ -12,12 +13,14 @@ from matplotlib.ticker import MaxNLocator
 import spacy
 from collections import Counter
 from wordcloud import WordCloud
+from dotenv import load_dotenv
 
 
 # In[2]:
 
 
-API_KEY = "4ce91b386876467e8cd91ea7c2bc2b12"
+load_dotenv()
+API_KEY = os.getenv("NEWS_API_KEY")
 
 def fetch_news(api_key, query="quantum", language="en", page_size=10):
     url = f"https://newsapi.org/v2/everything?q={query}&language={language}&pageSize={page_size}&apiKey={api_key}"
