@@ -6,7 +6,7 @@ A simple Python project that fetches news articles using NewsAPI, analyzes them 
 - Fetch articles by keyword (e.g., "AI")
 - Extract and count named entities
 - Display top entities in a bar chart
-- Optional: generate a word cloud
+- Generate a word cloud
 
 ## Setup
 
