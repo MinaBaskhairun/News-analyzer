@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 2575,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gayoung Lee",
+      "title": "Physicists Solve a 50-Year Mystery About a Critically Important Molecule",
+      "description": "The discovery itself is simple and fundamental, but the applications stretch far and wide into astrophysics and quantum technology, the researchers say",
+      "url": "https://gizmodo.com/physicists-solve-a-50-year-mystery-about-a-critically-important-molecule-2000623370",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/07/dipolelead-1200x675.jpg",
+      "publishedAt": "2025-07-02T16:20:54Z",
+      "content": "After relying on an educated guess for decades, scientists have finally confirmed the dipole moment of aluminum monochloride (AlCl), an elusive but important molecule known to sneak around the interi\u2026 [+3128 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Brandon Russell",
+      "title": "Amazon\u2019s Fire TV Omni QLED Series is back down to its Prime Day low",
+      "description": "Finding a quality budget TV isn\u2019t as hard as it used to be, with numerous deals happening throughout the year. Case in point, the 65-inch configuration of Amazon\u2019s Fire TV Omni QLED Series is back down to its Prime Day low of $449.99 ($270 off). The discount \u2026",
+      "url": "https://www.theverge.com/tech/712612/amazon-fire-tv-omni-qled-series-65-inch-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Amazon-Fire-TV-Omni-QLED-Series-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-07-23T20:51:36Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazons 4K TV features quantum dot technology for better color accuracy and brightness.\r\nAmazons 4K TV features quantum dot technology for better color accuracy \u2026 [+3015 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Katie Drummond",
+      "title": "A New Era for WIRED\u2014That Starts With You",
+      "description": "As of today, there are even more ways to enjoy WIRED\u2019s journalism, including premium newsletters and livestream Q&As. Join us.",
+      "url": "https://www.wired.com/story/a-new-era-for-wired-that-starts-with-you/",
+      "urlToImage": "https://media.wired.com/photos/687ea03db1f8553535717f0f/191:100/w_1280,c_limit/WIRED-Premium-Subscription-Ed-Letter-social.jpg",
+      "publishedAt": "2025-07-23T11:00:00Z",
+      "content": "At WIRED, were obsessed with how the world is transformingand lately, theres been a lot to obsess over. From the breakneck pace of AI research to the tectonic transformation playing out across the US\u2026 [+4254 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Zacks Equity Research",
+      "title": "Zacks Investment Ideas feature highlights: Quantum Computing, D-WAVE QUANTUM and IonQ",
+      "description": "QBTS, IONQ, and QUBT surge as bullish chart setups and rising sales forecasts energize quantum computing investors.",
+      "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-142100486.html",
+      "urlToImage": "https://media.zenfs.com/en/zacks.com/540ee5fef28c3457a33742313411c932",
+      "publishedAt": "2025-06-30T14:21:00Z",
+      "content": "Chicago, IL \u2013 June 30, 2025\u2013 Today, Zacks Investment Ideas feature highlights Quantum Computing Inc. QUBT, D-WAVE QUANTUM QBTS and IonQ IONQ.\r\nThe quantum computing industry has seen a surge of atten\u2026 [+6616 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Si\u00f4n Geschwindt",
+      "title": "Denmark taps Microsoft to build world\u2019s most powerful quantum computer",
+      "description": "Denmark is aiming to stake a bold claim in the global quantum race with plans to build the world\u2019s most powerful quantum computer. Backed by \u20ac80mn from EIFO (Denmark\u2019s export and investment fund) and the Novo Nordisk Foundation, the new initiative \u2014 dubbed Qu\u2026",
+      "url": "https://thenextweb.com/news/denmark-taps-microsoft-to-build-worlds-most-powerful-quantum-computer",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2025%2F07%2Fquantum-computing-atom.jpg&signature=3dc8e4c84232983f4143e227afe18b8d",
+      "publishedAt": "2025-07-17T10:59:51Z",
+      "content": "Denmark is aiming to stake a bold claim in the global quantum race with plans to build the worlds most powerful quantum computer.\r\nBacked by 80mn from EIFO (Denmarks export and investment fund) and t\u2026 [+2828 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jagmeet Singh",
+      "title": "India eyes global quantum computer push \u2014 and QpiAI is its chosen vehicle",
+      "description": "QpiAI, an Indian startup that integrates AI and quantum computing for enterprise use cases, has raised $32 million in a new funding round co-led by the...",
+      "url": "https://finance.yahoo.com/news/india-eyes-global-quantum-computer-205401794.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/u8zE2c6_kDG0t0CICFTSOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_finance_785/389c027e535da829d42228d7b557dd64",
+      "publishedAt": "2025-07-16T20:54:01Z",
+      "content": "Image Credits:QpiAI\r\nQpiAI, an Indian startup that claims to integrate AI and quantum computing for enterprise use cases, has raised $32 million in a new funding round co-led by the Indian government\u2026 [+4623 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jason Ma",
+      "title": "Quantum computing is so fire \u2014 No, seriously. BofA says it could be humanity\u2019s biggest breakthrough since the discovery of fire",
+      "description": "\"A technology that can perform endless complex calculations in zero-time, warp-speeding human knowledge and development.\"",
+      "url": "https://finance.yahoo.com/news/quantum-computing-fire-no-seriously-190420811.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WWttiu81akfV5T9r5bKR8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/89d09419ea34b0f697e758391635b922",
+      "publishedAt": "2025-07-19T19:04:20Z",
+      "content": "<ul><li>The use of subatomic particles to process data could represent a breakthrough that\u2019s unmatched in modern human history, according to analysts at Bank of America, who compared it to the discov\u2026 [+3142 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Ryan Waniata",
+      "title": "7 Best Prime Day TV Deals for All Budgets (2025)",
+      "description": "Shop our AV editor's favorite Prime Day TV deals from the July sales event. Find discounts on WIRED-recommended LG, Samsung, and Sony models.",
+      "url": "https://www.wired.com/story/prime-day-tv-deals-july-2025-2/",
+      "urlToImage": "https://media.wired.com/photos/686bc5f7f24ef4a6bf8a6fb5/191:100/w_1280,c_limit/5.jpg",
+      "publishedAt": "2025-07-10T15:26:45Z",
+      "content": "Summer heat is upon us, but there's nothing cooler than great Prime Day TV deals on the best TVs we've tested. We don't recommend just any TV discounts; here at WIRED, you'll find only the top models\u2026 [+6821 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Adam Zeloof",
+      "title": "Quasi-Quantifying Qubits for 100 Quid",
+      "description": "As part of his multi-year project to build a quantum computer, hacakday.io poster [skywo1f] has shared with us his most recent accomplishment \u2014 a Nuclear Magnetic Resonance Spectrometer, which he \u2026read more",
+      "url": "https://hackaday.com/2025/07/14/quasi-quantifying-qubits-for-100-quid/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/07/nmr-spec-featured.png",
+      "publishedAt": "2025-07-15T05:00:22Z",
+      "content": "As part of his multi-year project to build a quantum computer, hacakday.io poster [skywo1f] has shared with us his most recent accomplishment \u2014 a Nuclear Magnetic Resonance Spectrometer, which he bui\u2026 [+1266 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Popular Mechanics"
+      },
+      "author": "Darren Orf",
+      "title": "Quantum Entanglement in Your Brain Is What Generates Consciousness, Radical Study Suggests",
+      "description": "Scientists suggest quantum entanglement in myelin sheaths generates consciousness, offering a groundbreaking new perspective on brain function and cognition.",
+      "url": "https://www.popularmechanics.com/science/a65368553/quantum-entanglement-in-brain-consciousness/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/J6ag2jX8RoN4Wcs_jjjVAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY7Y2Y9d2VicA--/https://media.zenfs.com/en/popular_mechanics_642/cb20cade8132cfab911813e883dc83ee",
+      "publishedAt": "2025-07-10T17:10:00Z",
+      "content": "\"Hearst Magazines and Yahoo may earn commission or revenue on some items through these links.\"\r\nHeres what youll learn when you read this story:\r\n<ul><li>For the past 30 years, scientists have invest\u2026 [+5115 chars]"
+    }
+  ]
+}
